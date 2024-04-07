@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dermaid.github.io/static/css/main.7f386160.css",
+    "main.js": "/dermaid.github.io/static/js/main.ec701d90.js",
+    "index.html": "/dermaid.github.io/index.html",
+    "main.7f386160.css.map": "/dermaid.github.io/static/css/main.7f386160.css.map",
+    "main.ec701d90.js.map": "/dermaid.github.io/static/js/main.ec701d90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f386160.css",
+    "static/js/main.ec701d90.js"
+  ]
+}
