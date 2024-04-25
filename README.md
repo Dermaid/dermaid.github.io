@@ -1,1 +1,1 @@
-Webpage for Dermaid Application
+We are in the process of shifting to dermaid.org. Apologies for inconvenience
